@@ -19,7 +19,7 @@ This project focuses on building a **sentiment analysis model** to classify cust
 
 ---
 
-## **Tools, Platform, and Environment**
+## 🧰 **Tools, Platform, and Environment**
 ### **Development Setup**
 - **Editor**: Jupyter Notebook (for interactive coding and visualization)  
 - **Platform**: Anaconda Navigator (for managing Python environments and dependencies)  
@@ -32,14 +32,14 @@ This project focuses on building a **sentiment analysis model** to classify cust
 
 ---
 
-## **Dataset**
+## 📁 **Dataset**
 - **Source**: Downloaded from [Kaggle](https://www.kaggle.com/).  
 - **Description**: The dataset consists of **customer reviews** (text) and corresponding **sentiment labels** (positive, negative, neutral).  
 - **Inspiration**: Kaggle's community forums and notebooks provided valuable guidance during the project.  
 
 ---
 
-## **Project Workflow**
+## 🚀**Project Workflow**
 ### **1. Data Preprocessing**
 Raw text requires cleaning before it can be used for machine learning. Here’s how I preprocessed the data:
 - Converted text to **lowercase** for consistency.  
